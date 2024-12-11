@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s"></img>
 
-- 🔭 I’m currently working on [PropertEase](https://github.com/DakshChawla12/PropertEase.git)
+- 🔭 I’m currently working on [Tech-Haven](https://github.com/DakshChawla12/TECH-HAVEN)
 
 - 🌱 I’m currently learning **Express js**
 
