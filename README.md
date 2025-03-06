@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Decora](https://github.com/DakshChawla12/Decora)
 
-- 🌱 I’m currently learning **Express js**
+- 🌱 I’m currently learning **GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DakshChawla12](https://github.com/DakshChawla12)
+- 👨‍💻 All of my projects are available at [https://github.com/DakshChawla12](https://github.com/DakshChawla12?tab=repositories)
 
 - 📫 How to reach me **dakshf219@gmail.com**
 
